@@ -10,7 +10,7 @@ Requirements:
 To run the app locally:
 
 ```bash
-git clone https://github.com/mzabriskie/react-example.git
+git clone https://github.com/frayhan94/infinite-scroll.git
 cd react-example
 npm run setup
 npm run dev
